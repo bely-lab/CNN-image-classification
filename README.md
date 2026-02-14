@@ -1,8 +1,7 @@
-# 🐾 CNN Image Classification – Animals-10 Dataset
+# CNN Image Classification – Animals-10 Dataset
 
 This project implements and optimizes a Deep Convolutional Neural Network (CNN) for multi-class image classification using the Animals-10 dataset.
 
-The goal was not only to build a working CNN, but to systematically improve performance through architectural and training enhancements.
 
 ---
 
