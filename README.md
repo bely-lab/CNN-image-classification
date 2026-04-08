@@ -40,7 +40,6 @@ To improve performance and reduce overfitting, the following enhancements were i
 - Early stopping to prevent overfitting
 - Learning rate reduction on plateau
 
----
 
 ## Training Configuration
 
@@ -54,7 +53,6 @@ To improve performance and reduce overfitting, the following enhancements were i
   - EarlyStopping
   - ReduceLROnPlateau
 
----
 
 ## Results
 
@@ -68,13 +66,10 @@ Key observations:
 
 Final model achieved strong validation performance with stable learning curves.
 
----
-
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - TensorFlow / Keras
 - NumPy
 - Matplotlib
----
 
