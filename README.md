@@ -3,8 +3,6 @@
 This project implements and optimizes a Deep Convolutional Neural Network (CNN) for multi-class image classification using the Animals-10 dataset.
 
 
----
-
 ## Dataset
 
 The model was trained on the Animals-10 dataset, which contains natural RGB images across 10 different animal categories.
@@ -17,7 +15,6 @@ Characteristics:
 
 The variability in image conditions makes generalization an important challenge.
 
----
 
 ## Model Development Strategy
 
@@ -31,7 +28,6 @@ Started with a standard CNN architecture:
 
 This served as the reference model for comparison.
 
----
 
 ### 2️⃣ Architectural Improvements
 
