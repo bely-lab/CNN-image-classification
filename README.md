@@ -46,7 +46,7 @@ To improve performance and reduce overfitting, the following enhancements were i
 
 ---
 
-## ⚙️ Training Configuration
+## Training Configuration
 
 - Loss Function: Sparse Categorical Crossentropy
 - Optimizers tested:
@@ -60,7 +60,7 @@ To improve performance and reduce overfitting, the following enhancements were i
 
 ---
 
-## 📈 Results
+## Results
 
 Key observations:
 
